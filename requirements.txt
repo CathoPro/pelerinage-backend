@@ -1,8 +1,7 @@
 Django==4.2.7
 gunicorn
 whitenoise
-pymongo==4.6.1
-dnspython
+psycopg2-binary
 qrcode
 Pillow
 python-dotenv
